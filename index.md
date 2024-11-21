@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Chulapa on remote
+title: Welcome!
 header_type: hero
-subtitle: Starter pack
 ---
 
 Template by [Chulapa](https://github.com/dieghernan/chulapa-101).
