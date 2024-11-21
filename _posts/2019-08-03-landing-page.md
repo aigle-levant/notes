@@ -7,17 +7,13 @@ header_img: "https://dieghernan.github.io/chulapa/assets/img/site/transparent.pn
 categories: [landing-page]
 tags: [example, demo,layout, guest-author, image]
 author:
-  name: Octocat
-  avatar: https://github.com/octocat.png
-  location: Pennsylvania, United States
+  name: Aigle
+  avatar: https://github.com/aigle-levant.png
+  location: Chennai, India
   links:                
-    - url: https://github.com/github/
+    - url: https://github.com/aigle-levant
       icon: "fab fa-github"
-    - url: https://twitter.com/github
-      icon: fab fa-twitter
-    - url: https://github.com/facebook
-      icon: "fab fa-facebook"
-    - url: https://www.linkedin.com
+    - url: https://www.linkedin.com/in/prajanya-subramanian/
       icon: "fab fa-linkedin"
 ---
 
