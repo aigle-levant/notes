@@ -6,3 +6,8 @@
 This website was built using [Chulapa](https://dieghernan.github.io/chulapa).
 
 I hope you'll enjoy my content.
+
+Upcoming content :
+
+- Grokking Algorithm notes
+- Easy way to add dark mode in webpage
