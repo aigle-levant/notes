@@ -2,10 +2,12 @@
 title: "Divide-and-Conquer Strategy"
 subtitle: "Grokking Algorithms"
 header_type: hero
-header_img: "https://images.unsplash.com/photo-1473163928189-364b2c4e1135?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+header_img: "https://images.unsplash.com/photo-1498354178607-a79df2916198?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 categories: [book-notes, grokking-algo]
 tags: [algorithms, strategies, programming]
 ---
+
+[Photo by Clay Banks on Unsplash](https://unsplash.com/@claybanks)
 
 In politics or history, you must've heard of the term - **divide and rule**. Now, if you aren't familiar with it, it means gaining power by using divisive measures.
 
@@ -26,6 +28,7 @@ By this logic, we undergo 3 steps :
 An example would be...let's say we're building a web-page.
 
 ![alt text](image.png)
+
 *I know, I know...this is one of my own web-pages. But what better example could I provide, if not my own?*
 
 To build a web-page, we normally plan the structure [how it should look and all] and work on the HTML and CSS part. Then we go to JS and get the interactive part of it ready.

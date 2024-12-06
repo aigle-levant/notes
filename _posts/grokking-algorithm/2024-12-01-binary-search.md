@@ -2,10 +2,12 @@
 title: "Binary Search"
 subtitle: "Grokking Algorithms"
 header_type: hero
-header_img: "https://images.unsplash.com/photo-1473163928189-364b2c4e1135?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+header_img: "https://images.unsplash.com/photo-1514497158453-f759c32a27fe?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGRpdmlkZXxlbnwwfHwwfHx8Mg%3D%3D"
 categories: [book-notes, grokking-algo]
 tags: [algorithms, programming]
 ---
+
+[Photo by Anthony Intraversato on Unsplash](https://unsplash.com/@anthonyintraversato)
 
 Binary search is a **searching algorithm**. It uses the [divide-and-conquer](2024-12-01-divide-and-conquer.md) strategy to look up elements in an array.
 
