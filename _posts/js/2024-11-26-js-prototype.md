@@ -1,7 +1,7 @@
 ---
 title: "Prototype"
 subtitle: "Something found in all objects"
-categories: [lang-notes, javascript]
+categories: [lang-notes, javascript, js-oop]
 tags: [high-level language, javascript, objects, prototype]
 ---
 

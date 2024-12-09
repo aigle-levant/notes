@@ -1,7 +1,7 @@
 ---
 title: "Defining Objects"
 subtitle: "in JavaScript"
-categories: [lang-notes, javascript]
+categories: [lang-notes, javascript, js-oop]
 tags: [high-level language, javascript, objects]
 ---
 
