@@ -5,9 +5,11 @@ categories: [lang-notes, javascript]
 tags: [high-level language, javascript, functions]
 ---
 
-Wait what?!
+*Wait what?!*
 
-Yes. The title is right. Functions are, indeed, object. Long short short, functions belong to a category of data types called reference-type. This category includes :
+Yes. The title is right. **Functions are, indeed, objects**.
+
+Long short short, functions belong to a category of data types called reference-type. This category includes :
 
 * Objects
 * Arrays
@@ -39,7 +41,8 @@ caller.call({}, "Mozart", undefined);
 caller.apply({}, ["This", "That", "Everyone"], [2, 2, undefined]);
 ```
 
-> Notice the dot [.] operator being used here? This is because functions are objects.
+Notice the dot [.] operator being used here? This is because functions are objects.
+{: #myid .alert .alert-info .p-3 .mx-2 mb-3}
 
 Alright, now let me explain what each does :
 
@@ -96,7 +99,8 @@ function weightOfLiving()
 weightOfLiving(); //under the weight of living
 ```
 
-> A function with an empty or non-existent `return` statement will return `undefined`.
+A function with an empty or non-existent `return` statement will return `undefined`.
+{: #myid .alert .alert-info .p-3 .mx-2 mb-3}
 
 ### Arguments and parameters
 
@@ -123,7 +127,8 @@ else
 
 This function, by default, has the value 'Brother', and so if we merely call it, it'll use that value.
 
-> Use this ``const prompt = require("prompt-sync")({sigint:true});`` in case `prompt()` doesn't work for you in VSCode.
+Use this ``const prompt = require("prompt-sync")({sigint:true});`` in case `prompt()` doesn't work for you in VSCode.
+{: #myid .alert .alert-info .p-3 .mx-2 mb-3}
 
 ### Anonymous functions
 
@@ -206,7 +211,7 @@ function()
 */
 ```
 
-We don't need the damn code! I'll have to modify this one just a bit...
+We don't need the *damn* code! I'll have to modify this one just a bit...
 
 ```js
 function genius()
@@ -267,5 +272,3 @@ console.log(line());
 
 //Playing : Bad Blood by Bastille
 ```
-
-

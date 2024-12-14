@@ -25,7 +25,7 @@ A **public entity** is visible to the outside world. We can access and modify it
 
 Whereas a **private entity** is hidden and forces the users of the class to access it through specified means only. Usually we hide the instance variables of a class.
 
-> This is possible thanks to the concept of encapsulation.
+This is possible thanks to the concept of encapsulation.
 
 **Static** is a modifier that indicates that the method doesn't belong to an object [we don't need an object to access it] and can't be used to access variables that belong to objects.
 

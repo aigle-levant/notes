@@ -11,11 +11,11 @@ First, take note of these 3 statements :
 - The prototype is another object that the original object inherits from.
 - The original object has access to all of its prototype's methods and properties
 
-Nothing seems to make sense, for now. Let me guide you.
+Nothing seems to make sense for now. Let me guide you.
 
 ## What is a prototype?
 
-> View [this article at Digital Ocean](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript) for more info.
+[View [this article at Digital Ocean](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript) for more info.]
 
 Every object in JS has an internal property called `[[Prototype]]`. It creates a way for two or more objects to be linked together.
 
@@ -32,7 +32,8 @@ When we put this in the browser console :
 
 Another way to do so is through ``x.__proto__``.
 
-> `__proto__` is depreciated and shouldn't be used at all!
+`__proto__` is depreciated and shouldn't be used at all!
+{: #myid .alert .alert-info .p-3 .mx-2 mb-3}
 
 ## Prototypal inheritance
 

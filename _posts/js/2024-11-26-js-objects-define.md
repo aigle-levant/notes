@@ -164,7 +164,8 @@ playerOne.playerJob;
 playerOne["playerJob"];
 ```
 
-> Bracket notation is used when property name is a string with spaces in it.
+Bracket notation is used when property name is a string with spaces in it.
+{: #myid .alert .alert-info .p-3 .mx-2 mb-3}
 
 ## Organising objects
 
