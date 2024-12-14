@@ -11,7 +11,10 @@ You can attach event handlers to this object, which can be executed when operati
 
 ## Syntax
 
-> *A callback used to initialize the promise. This callback is passed two arguments: **a resolve callback** used to resolve the promise with a value or the result of another promise, and **a reject callback** used to reject the promise with a provided reason or error.* - VS Code definition of a `Promise` object
+> [!note]
+> *A callback is used to initialize the promise. This callback is passed two arguments: **a resolve callback** used to resolve the promise with a value or the result of another promise, and **a reject callback** used to reject the promise with a provided reason or error.*
+> 
+> - VS Code definition of a `Promise` object
 
 A `Promise` has two parts - the producing part and the consuming part.
 
@@ -69,7 +72,10 @@ function(ifSuccess, ifFailure)
 });
 ```
 
-We use a conditional to check if the value returned by `isEven()` is 1 or not. If yes, we call `ifSuccess()` with that number as argument. If not, we call `ifFailure()`. With this, we finish the producing part.
+We use a conditional to check if the value returned by `isEven()` is 1 or not :
+
+- If yes, we call `ifSuccess()` with that number as argument.
+- If not, we call `ifFailure()`. With this, we finish the producing part.
 
 In the consuming part, we use the `then()` method, which takes 2 functions as arguments [remember, they're called callbacks].
 
@@ -117,12 +123,16 @@ promiseMe.then(
 )
 ```
 
+> [!note]
+> 
 > A `Promise` object can also have only the `ifSuccess` part or the `ifFailure` part.
 
 ### `Promise` object's properties
 
 This object has two properties : `state` and `result`. Both can only be accessed through the object's methods.
 
+> [!note]
+> 
 > The process by which object properties are accessible only through their methods is called **encapsulation**.
 
 ## Promise states
@@ -143,6 +153,8 @@ This object has two properties : `state` and `result`. Both can only be accessed
 - Async function has failed.
 - `catch()` is called.
 
+> [!note]
+> 
 > A function that performs a task that requires it to 'handle' something - like handling transitions, handling the process of automating tests - is called a **handler**.
 
 **Settle** is a term used to indicate that something's performed with the `Promise` object to change its state from `pending` to either `fulfilled` or `rejected`.
@@ -151,7 +163,7 @@ So, a promise is **resolved** if we settle it, if we finish it somehow. It is al
 
 ### Methods used with `Promise`
 
-> Check out `async-await` from [here](2024-12-11-js-async-await.md)
+[Check out `async-await` from [here](2024-12-11-js-async-await.md)]
 
 ``Promise.resolve()`` lets you create a `Promise` object that's already been resolved.
 
