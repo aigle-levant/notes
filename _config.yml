@@ -122,10 +122,10 @@ footer:
       icon  : fab fa-github # Fontawesome 5 icon
       url   : https://github.com/aigle-levant/notes # A link or email: https://twitter.com/jack, mail@example.com
     - label: "Email"
-      icon: "fa fa-email"
+      icon: "fab fa-email"
       url:  "aiglelevant@gmail.com"
     - label: "LinkedIn"
-      icon: "fa fa-linkedin"
+      icon: "fab fa-linkedin"
       url:  "https://www.linkedin.com/in/prajanya-subramanian/"
   copyright: # default is © <year> <name> 
   
