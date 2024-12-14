@@ -21,7 +21,7 @@ timezone                : "Asia/Kolkata"
 og_image                :     #default[author.avatar (see below)] or [github-avatar]
 twitter_site            :     #Avoid @
 author:
-  name                  :  Your Name   # Name Surname Company
+  name                  :  aigle-levant   # Name Surname Company
   avatar                :     # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
   location              :  "Chennai, India"   # New York, USA 
 #  links:                
@@ -94,11 +94,9 @@ navbar:
   expand    :  # At which device size expand the navbar menu. default[md] https://getbootstrap.com/docs/4.5/layout/overview/
   brand:
     title   :  Home # Title in navbar
-    url     :  # default["url/baseurl"]
+    url     :  /blog/ # url
     img     :  # An small image, try 30x30px
   nav:
-  - title   : Blog # Label
-    url     : /blog/ # url	
   - title   : Cheatsheets
     url     : /cheatsheets
   - title   : Extras
@@ -126,6 +124,9 @@ footer:
     - label: "Email"
       icon: "fa fa-email"
       url:  "aiglelevant@gmail.com"
+    - label: "LinkedIn"
+      icon: "fa fa-linkedin"
+      url:  "https://www.linkedin.com/in/prajanya-subramanian/"
   copyright: # default is © <year> <name> 
   
 # C. Theme Settings
@@ -136,7 +137,7 @@ googlefonts:
 # Theme and colors
 chulapa-skin: 
   highlight     : dracula
-  skin         :  sketchy # Optional predefined skins
+  skin         :  chulapa # Optional predefined skins
   autothemer    :  true # Bool: Use autotheming
   vars          :    
     primary     : "#ffbe98" #default ["#007bff"] - Bootstrap blue
