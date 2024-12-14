@@ -11,10 +11,8 @@ You can attach event handlers to this object, which can be executed when operati
 
 ## Syntax
 
-> [!note]
-> *A callback is used to initialize the promise. This callback is passed two arguments: **a resolve callback** used to resolve the promise with a value or the result of another promise, and **a reject callback** used to reject the promise with a provided reason or error.*
-> 
-> - VS Code definition of a `Promise` object
+*A callback is used to initialize the promise. This callback is passed two arguments: **a resolve callback** used to resolve the promise with a value or the result of another promise, and **a reject callback** used to reject the promise with a provided reason or error.* - VS Code definition of a `Promise` object
+{: #myid .alert .alert-info .p-3 .mx-2 mb-3}
 
 A `Promise` has two parts - the producing part and the consuming part.
 
@@ -123,17 +121,15 @@ promiseMe.then(
 )
 ```
 
-> [!note]
-> 
-> A `Promise` object can also have only the `ifSuccess` part or the `ifFailure` part.
+A `Promise` object can also have only the `ifSuccess` part or the `ifFailure` part.
+{: #myid .alert .alert-info .p-3 .mx-2 mb-3}
 
 ### `Promise` object's properties
 
 This object has two properties : `state` and `result`. Both can only be accessed through the object's methods.
 
-> [!note]
-> 
-> The process by which object properties are accessible only through their methods is called **encapsulation**.
+The process by which object properties are accessible only through their methods is called **encapsulation**.
+{: #myid .alert .alert-info .p-3 .mx-2 mb-3}
 
 ## Promise states
 
@@ -153,9 +149,8 @@ This object has two properties : `state` and `result`. Both can only be accessed
 - Async function has failed.
 - `catch()` is called.
 
-> [!note]
-> 
-> A function that performs a task that requires it to 'handle' something - like handling transitions, handling the process of automating tests - is called a **handler**.
+A function that performs a task that requires it to 'handle' something - like handling transitions, handling the process of automating tests - is called a **handler**.
+{: #myid .alert .alert-info .p-3 .mx-2 mb-3}
 
 **Settle** is a term used to indicate that something's performed with the `Promise` object to change its state from `pending` to either `fulfilled` or `rejected`.
 
