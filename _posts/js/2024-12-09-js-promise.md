@@ -148,3 +148,43 @@ This object has two properties : `state` and `result`. Both can only be accessed
 **Settle** is a term used to indicate that something's performed with the `Promise` object to change its state from `pending` to either `fulfilled` or `rejected`.
 
 So, a promise is **resolved** if we settle it, if we finish it somehow. It is also resolved when it switches to follow the state of another promise [a promise chain].
+
+### Methods used with `Promise`
+
+> Check out `async-await` from [here](2024-12-11-js-async-await.md)
+
+``Promise.resolve()`` lets you create a `Promise` object that's already been resolved.
+
+```js
+function funct()
+{
+  return Promise.resolve("Hello");
+}
+
+funct().then(
+  function(value)
+  {
+    otherFunct(value);
+  }
+)
+```
+
+``Promise.reject()`` lets you create a `rejected` `Promise` object. You've to provide the reason why it was rejected as argument.
+
+```js
+function funct()
+{
+  return Promise.reject("Oh no");
+}
+
+funct().then(
+  function(value)
+  {
+    otherFunct(value); //this won't be returned
+  }
+  function(error)
+  {
+    console.log("Error"); //this will be returned
+  }
+)
+```
