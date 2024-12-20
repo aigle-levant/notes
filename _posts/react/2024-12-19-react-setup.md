@@ -75,7 +75,15 @@ Aaand...we're done!
 
 ![alt text](image.png)
 
-### Why did you use Babel, though?
+### Questions
+
+- What are the steps required to set up React?
+- Name the modules that you include in your document to let React work :
+- Why do we need to create a `<div id="root">` element?
+- Which function lets you create a root variable?
+- What does `render()` do?
+
+## Why did you use Babel, though?
 
 Coming back to your question, why use Babel?
 
@@ -88,3 +96,9 @@ Loading failed for the module with source “{your jsx file path name}”.
 ```
 
 This happens because browsers just *don't know* how to deal with JSX. One way to let it deal with it is to transpile it into plain old JS. A tool like Babel does everything for ya.
+
+### Questions
+
+- Why do we need to use Babel for doing things with React?
+- What happens if we don't use Babel?
+- What does Babel do, exactly?

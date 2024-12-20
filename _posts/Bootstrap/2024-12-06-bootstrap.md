@@ -98,19 +98,6 @@ Then there's size. It includes a SASS [SCSS stuff] variable called `$spacer` tha
 
 > `$spacer` can be customised using ``$spacer: {value};`` in SCSS.
 
-### Background and text
-
-For making your background dark with appropriately-coloured text, you use `bg-dark` with `text-white`.
-
-For making background any other colour, on the other hand, you use `bg-primary` and then define the colour in CSS.
-
-```html
-<div class="container bg-dark text-white"></div>
-<div class="container-fluid bg-primary"></div>
-```
-
-This is very useful for dark mode and light mode switching.
-
 ### Grid
 
 ```html
