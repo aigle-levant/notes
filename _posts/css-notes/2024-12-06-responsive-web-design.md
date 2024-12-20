@@ -9,7 +9,7 @@ tags: [css, ui-ux]
 
 [Photo by Alejandro Escamilla on Unsplash](https://unsplash.com/@alejandroescamilla)
 
-> Check out Kevin Powell's [video](https://youtu.be/x4u1yp3Msao?si=sBqXYf_twRiWgpO2) on responsive web design
+[Check out Kevin Powell's [video](https://youtu.be/x4u1yp3Msao?si=sBqXYf_twRiWgpO2) on responsive web design]
 
 Making websites responsive is important. Since most people nowadays are on their phones, it's crucial that you make your websites appear nicely on that small screen.
 
