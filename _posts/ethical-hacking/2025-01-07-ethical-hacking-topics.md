@@ -14,7 +14,7 @@ It's required when locating a device or performing diagnostics on a network devi
 
 You can find your MAC address by entering ``ipconfig/all`` in the Command Prompt and looking for the Physical Address field.
 
-[alt text](../../assets/images/found-mac.png)
+<img src="../../assets/images/found-mac.png" class="img-fluid" alt="Responsive image">
 
 ## Internet Protocol [IP] address
 
