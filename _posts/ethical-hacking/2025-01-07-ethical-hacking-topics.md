@@ -8,17 +8,17 @@ tags: [ethical hacking]
 
 It is a 12-digit hexadecimal number which is assigned to each device to uniquely identify them in a network. It is related to hardware.
 
-![alt text](../../assets/images/mac-address.webp)
+[alt text](../../assets/images/mac-address.webp)
 
 It's required when locating a device or performing diagnostics on a network device.
 
 You can find your MAC address by entering ``ipconfig/all`` in the Command Prompt and looking for the Physical Address field.
 
-![alt text](../../assets/images/found-mac.png)
+[alt text](../../assets/images/found-mac.png)
 
 ## Internet Protocol [IP] address
 
-[Refer -> [What is an IP Address – Definition and Explanation | Kaspersky](https://www.kaspersky.com/resource-center/definitions/what-is-an-ip-address)]
+Refer -> [What is an IP Address – Definition and Explanation | Kaspersky](https://www.kaspersky.com/resource-center/definitions/what-is-an-ip-address)
 
 It is a string of numbers used to uniquely identify a device in the internet or local network. It allows info. to be sent between devices on a network.
 
@@ -30,7 +30,7 @@ Turning your modem or router on and off can change your IP address.
 
 ## Port numbers
 
-[Refer -> [What Are Ports? | Akamai](https://www.akamai.com/glossary/what-are-ports)]
+Refer -> [What Are Ports? | Akamai](https://www.akamai.com/glossary/what-are-ports)
 
 Port numbers are 16-bit unsigned integer appended to the IP address, separated by colon. It's used to direct internet traffic arriving at a server.
 
@@ -53,7 +53,7 @@ Ports are used to identify a connection endpoint and d
 
 ## Trojan / Trojan horse
 
-[Refer -> [Trojan horse - Virus or malware? | Malwarebytes](https://www.malwarebytes.com/trojan) & [Trojan Horse Virus | Fortinet](https://www.fortinet.com/resources/cyberglossary/trojan-horse-virus)]
+Refer -> [Trojan horse - Virus or malware? | Malwarebytes](https://www.malwarebytes.com/trojan) & [Trojan Horse Virus | Fortinet](https://www.fortinet.com/resources/cyberglossary/trojan-horse-virus)
 
 A malware appearing like a legitimate program. It uses social engineering to trick users into installing it and launching the infected program in their systems.
 
