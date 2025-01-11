@@ -15,7 +15,7 @@ Nothing seems to make sense for now. Let me guide you.
 
 ## What is a prototype?
 
-[View [this article at Digital Ocean](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript) for more info.]
+View [this article at Digital Ocean](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript) for more info.
 
 Every object in JS has an internal property called `[[Prototype]]`. It creates a way for two or more objects to be linked together.
 

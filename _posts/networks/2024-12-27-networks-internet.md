@@ -33,7 +33,7 @@ A network is a set of computers that share resources like files and information 
 
 ### Router
 
-![image of router](https://images.unsplash.com/photo-1606904825846-647eb07f5be2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<img src="https://images.unsplash.com/photo-1606904825846-647eb07f5be2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="img-fluid" alt="Responsive image">
 
 Computers are connected using a router, which ensures that messages from one computer are sent to its right destination [another computer].
 
@@ -41,7 +41,7 @@ Computers are connected using a router, which ensures that messages from one com
 
 ### Modem
 
-![alt text](..\..\assets\images\modem.png)
+<img src="../../assets/images/modem.png" class="img-fluid" alt="Responsive image">
 
 **Modems** are used to connect network to the rest of the world via telephone infrastructure. They use a process called **modulation**, which converts digital signals to analog info.
 
@@ -49,6 +49,6 @@ Its reverse process is called demodulation.
 
 ### ISP
 
-[Photo by Nichika Sakurai on Unsplash](https://images.unsplash.com/photo-1672079806540-6791a00ce239?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<img src="https://images.unsplash.com/photo-1672079806540-6791a00ce239?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="img-fluid" alt="Responsive image">
 
 We connect our network through the modem to an **Internet Service Provider [ISP]** to access the internet. They manage routers which access other ISP's routers.

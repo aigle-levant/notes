@@ -11,7 +11,7 @@ tags: [algorithms, strategies, programming]
 
 In politics or history, you must've heard of the term - **divide and rule**. Now, if you aren't familiar with it, it means gaining power by using divisive measures.
 
-![alt image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/India-or-British-Raj-in-British-Empire-1909.jpg/1024px-India-or-British-Raj-in-British-Empire-1909.jpg)
+<img src="[../../assets/images/](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/India-or-British-Raj-in-British-Empire-1909.jpg/1024px-India-or-British-Raj-in-British-Empire-1909.jpg)" class="img-fluid" alt="Responsive image">
 
 By causing division amongst the populace of a nation, a foreign ruler can conquer that nation with ease.
 
@@ -27,7 +27,7 @@ By this logic, we undergo 3 steps :
 
 An example would be...let's say we're building a web-page.
 
-![alt text](image.png)
+<img src="image.png" class="img-fluid" alt="Responsive image">
 
 *I know, I know...this is one of my own web-pages. But what better example could I provide, if not my own?*
 

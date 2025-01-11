@@ -8,7 +8,7 @@ tags: [ethical hacking]
 
 It is a 12-digit hexadecimal number which is assigned to each device to uniquely identify them in a network. It is related to hardware.
 
-[alt text](../../assets/images/mac-address.webp)
+<img src="../../assets/images/mac-address.webp" class="img-fluid" alt="Responsive image">
 
 It's required when locating a device or performing diagnostics on a network device.
 

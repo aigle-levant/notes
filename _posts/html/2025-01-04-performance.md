@@ -7,13 +7,7 @@ categories: [strategies, html]
 tags: [strategies, html]
 ---
 
-[cls, critical rendering path]
-
-[References]
-
-- [How fast should a Website Load in 2024? | BrowserStack](https://www.browserstack.com/guide/how-fast-should-a-website-load)
-- [The ultimate guide to web performance | Beyond Fireship](https://youtu.be/0fONene3OIA?si=43C0dBNMoBY2dHSz)
-- [Web Vitals | web.dev](https://web.dev/articles/vitals)
+Refer -> [How fast should a Website Load in 2024? | BrowserStack](https://www.browserstack.com/guide/how-fast-should-a-website-load), [The ultimate guide to web performance | Beyond Fireship](https://youtu.be/0fONene3OIA?si=43C0dBNMoBY2dHSz), [Web Vitals | web.dev](https://web.dev/articles/vitals)
 
 **Load time** is the time taken by a webpage to fully render on an user's browser. It depend on elements like file size, status of server and host, how well the website's coded, etc.
 
@@ -21,7 +15,7 @@ A **bounce rate** is a web traffic metric that measures the % of visitors leavin
 
 **Latency** is the time taken from making a HTTP request to receiving its response. It's also the time taken for a data packet to travel from source to destination.
 
-![alt text](../../assets/images/bounce-rate.png)
+<img src="../../assets/images/bounce-rate.png" class="img-fluid" alt="Responsive image">
 
 Load times are directly proportional to bounce rates. Higher load times indicate higher bounce rates. A high bounce rate causes the website to rank less in the search engine and not get much traffic.
 

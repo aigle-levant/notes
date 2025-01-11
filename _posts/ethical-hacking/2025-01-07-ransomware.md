@@ -4,7 +4,7 @@ categories: [college-notes]
 tags: [ethical hacking]
 ---
 
-[Refer -> [What is Ransomware? | Check Point](https://www.checkpoint.com/cyber-hub/threat-prevention/ransomware/)]
+Refer -> [What is Ransomware? | Check Point](https://www.checkpoint.com/cyber-hub/threat-prevention/ransomware/)
 
 Ransomware is a malware that encrypts a user's files and demands a ransom payment for the decryption key. It is done so that paying the ransom is far cheaper than the other alternatives.
 

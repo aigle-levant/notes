@@ -73,7 +73,7 @@ root.render(<h1>This. Is. REACT!</h1>);
 
 Aaand...we're done!
 
-![alt text](image.png)
+<img src="../../assets/images/image.png" class="img-fluid" alt="Responsive image">
 
 ### Questions
 

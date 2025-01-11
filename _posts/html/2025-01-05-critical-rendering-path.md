@@ -5,16 +5,13 @@ categories: [strategies, html]
 tags: [strategies, html]
 ---
 
-[References]
-
-- [Critical rendering path | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path)
-- [Critical Rendering Path: What It Is and How to Optimize It | NitroPack](https://nitropack.io/blog/post/critical-rendering-path-optimization)
+Refer -> [Critical rendering path | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path) & [Critical Rendering Path: What It Is and How to Optimize It | NitroPack](https://nitropack.io/blog/post/critical-rendering-path-optimization)
 
 Critical Rendering Path [CRP] are the steps taken by a browser to convert your code into a visible webpage. If it is optimised [if time taken is reduced], render performances improves as well.
 
 ## Parts of CRP
 
-![alt text](../../assets/images/crp.png)
+<img src="../../assets/images/crp.png" class="img-fluid" alt="Responsive image">
 
 - **Document Object Model [DOM]** : Created as HTML is parsed and can be modified by JS
 - **CSS Object Model [CSSOM]** : Created when HTML includes a stylesheet or makes requests for styles [like Bulma, Bootstrap, etc.]
@@ -25,7 +22,7 @@ Critical Rendering Path [CRP] are the steps taken by a browser to convert your c
 
 DOM is the browser's representation of your HTML document. It is gradually constructed.
 
-![alt text](../../assets/images/dom.png)
+<img src="../../assets/images/dom.png" class="img-fluid" alt="Responsive image">
 
 Each node is a HTML element whose properties describe its attributes, content, etc.
 
@@ -35,7 +32,7 @@ Avoid excessive DOM size to optimise CRP.
 
 CSSOM includes info. to style the DOM. It's processed all at once.
 
-![alt text](../../assets/images/cssom.png)
+<img src="../../assets/images/cssom.png" class="img-fluid" alt="Responsive image">
 
 Browser blocks the rendering process until all the CSS is parsed. This is due to some styles being overwritten later in the file.
 
@@ -68,7 +65,7 @@ These factors contribute to CRP length :
 
 ## Optimisation
 
-![alt text](../../assets/images/render-block.png)
+<img src="../../assets/images/render-block.png" class="img-fluid" alt="Responsive image">
 
 - Remove unused files
 - Use techniques like minification, caching, compressing

@@ -158,7 +158,7 @@ So, a promise is **resolved** if we settle it, if we finish it somehow. It is al
 
 ### Methods used with `Promise`
 
-[Check out `async-await` from [here](2024-12-11-js-async-await.md)]
+Check out `async-await` from [here](2024-12-11-js-async-await.md)
 
 ``Promise.resolve()`` lets you create a `Promise` object that's already been resolved.
 

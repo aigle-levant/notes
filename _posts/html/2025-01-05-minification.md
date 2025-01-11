@@ -5,10 +5,7 @@ categories: [strategies, html]
 tags: [strategies, html]
 ---
 
-[References]
-
-- [Minification | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Glossary/Minification)
-- [Minify Resources (HTML, CSS, and JavaScript) | Google Developers](https://developers.google.com/speed/docs/insights/MinifyResources)
+Refer -> [Minification | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Glossary/Minification) & [Minify Resources (HTML, CSS, and JavaScript) | Google Developers](https://developers.google.com/speed/docs/insights/MinifyResources)
 
 Minification is the process of removing unnecessary data that won't affect the page being processed by the browser. It reduces file size and increases performance.
 

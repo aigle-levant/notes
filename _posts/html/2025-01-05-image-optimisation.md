@@ -5,9 +5,7 @@ categories: [strategies, html]
 tags: [strategies, html]
 ---
 
-[References]
-
-- [How to Optimize Images for Web: A Step-By-Step Guide for Better Site Performance | WP Engine](https://wpengine.com/resources/optimize-images-for-web)
+Refer -> [How to Optimize Images for Web: A Step-By-Step Guide for Better Site Performance | WP Engine](https://wpengine.com/resources/optimize-images-for-web)
 
 Image optimization is the act of decreasing file size without losing quality.
 

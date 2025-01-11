@@ -17,7 +17,7 @@ Binary search is a **searching algorithm**. It uses the [divide-and-conquer](202
 
 Let's say we have an array here and we wish to find the number 4 :
 
-![alt text](image-1.png)
+<img src="image-1.png" class="img-fluid" alt="Responsive image">
 
 > Binary search works properly after you sort the array.
 
@@ -37,11 +37,11 @@ Mid = (0 + 6) / 2 => 3
 
 So we divide the array at index 3
 
-![alt text](image-2.png)
+<img src="image-2.png" class="img-fluid" alt="Responsive image">
 
 We keep on applying the formula and eliminate half of the array until we get a sub-array with only one element in it :
 
-![alt text](image-3.png)
+<img src="image-3.png" class="img-fluid" alt="Responsive image">
 
 ### What if my element...doesn't exist in the array
 

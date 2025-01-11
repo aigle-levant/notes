@@ -67,7 +67,7 @@ A - Not accessible
 AA - Accessible
 AAA - Very accessible
 
-[wcag standards image](https://web.dev/static/learn/accessibility/measure/image/perceivable-operable-un-3ca2c38c67bb1.png)
+<img src="https://web.dev/static/learn/accessibility/measure/image/perceivable-operable-un-3ca2c38c67bb1.png" class="img-fluid" alt="Responsive image">
 
 ### Perceivable
 
