@@ -1,7 +1,9 @@
 ---
 title: "CSS transforms"
 subtitle: "Here's how you can make a circle into a nonahendragon..."
-categories: [lang-notes, css]
+header_type: hero
+header_img: "https://images.unsplash.com/photo-1598981095190-331171b91de0?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+categories: [css]
 tags: [css, ui-ux]
 ---
 
